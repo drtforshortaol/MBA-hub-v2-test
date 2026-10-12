@@ -1,0 +1,7 @@
+{
+  "environment": "tester",
+  "version": "2.0.0-alpha.1",
+  "stage": "foundation",
+  "namespace": "mba-v2-tester",
+  "developer": false
+}

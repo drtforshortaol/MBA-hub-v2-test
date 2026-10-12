@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "version": "2.0.0-alpha.1",
+  "environment": "tester",
+  "release": "f809d849892fd210",
+  "resources": [
+    {
+      "url": "apps/five-senses-pwa/app.js",
+      "sha256": "bb38e9f8c178a2092ab20b002088bbb54135c673866bc968158803686a59814d",
+      "bytes": 9137
+    },
+    {
+      "url": "apps/five-senses-pwa/data.js",
+      "sha256": "31e10022be5d88c3273306aebacf6c81375352ddb1911daa6827ea5c609f800b",
+      "bytes": 8519
+    },
+    {
+      "url": "apps/five-senses-pwa/index.html",
+      "sha256": "38d8a5e12908c18ba8bf2bc33a893dbaaf6bfa66d892a45fb12ca96f6ff862ee",
+      "bytes": 3485
+    },
+    {
+      "url": "apps/five-senses-pwa/manifest.json",
+      "sha256": "275438ec1df9571214bc95146416111cb1ba7b0c02fb6b6e48131a360b5c2a7d",
+      "bytes": 1712
+    },
+    {
+      "url": "apps/five-senses-pwa/styles.css",
+      "sha256": "5584ed35f4d34ff97e45d5a01dae9e8a3141977f1bb607fc6f495fa0d378aac2",
+      "bytes": 9824
+    },
+    {
+      "url": "apps/interpretation-principles/app.js",
+      "sha256": "ba78b45542c8fbfef8aac9bc83c0b4b17f49618c98c59487619882ce7191aebc",
+      "bytes": 4891
+    },
+    {
+      "url": "apps/interpretation-principles/data.js",
+      "sha256": "0d598a17421ab55921db5e93afb4afb520c900e1eeeb77fe14454c411a0386c8",
+      "bytes": 5880
+    },
+    {
+      "url": "apps/interpretation-principles/index.html",
+      "sha256": "41731d0e087b68e53c8740853ca39406837dad02aca19245d3decd91a46ee4d8",
+      "bytes": 1485
+    },
+    {
+      "url": "apps/interpretation-principles/manifest.json",
+      "sha256": "427bd5bc9366818454bff39a83e9c67214962dc2b0bb0ff2538136e8e4ca77de",
+      "bytes": 4615
+    },
+    {
+      "url": "apps/interpretation-principles/styles.css",
+      "sha256": "c054bd6973fc4d1afc57d86b4c613ab9c7c351be040597326b24e6ba2008a8d9",
+      "bytes": 5917
+    },
+    {
+      "url": "core/app-contract.js",
+      "sha256": "21b2cb88bee9085c6fa92c6b8d0cd66a8f5ee2e8536eeb90d42777d1c8f9f99b",
+      "bytes": 1366
+    },
+    {
+      "url": "core/content-template.js",
+      "sha256": "8095007b86e859745872504c9071e700a8ff266e073152d8ce1cf700a0989b91",
+      "bytes": 1700
+    },
+    {
+      "url": "core/hub.css",
+      "sha256": "24f3438bcbf66d670d2e07f44d513041f4822ac4a7c42e01607c39b16f730a60",
+      "bytes": 3072
+    },
+    {
+      "url": "core/hub.js",
+      "sha256": "4a193aae49fc3e921bdc848851279e79f9c7d8d4b21078597d1eb09940229609",
+      "bytes": 4736
+    },
+    {
+      "url": "core/offline.js",
+      "sha256": "a491134319f700ccac6b0e0fb515cd5b2a8fec710da40cd8c123b4b537ef9430",
+      "bytes": 1005
+    },
+    {
+      "url": "core/worker-channel.js",
+      "sha256": "cf5083a070a45a231e7e3452903444943614449c00360356bf0f6759249ee558",
+      "bytes": 509
+    },
+    {
+      "url": "environment.json",
+      "sha256": "59e2dbe993606dfca41ee3881f23ce43287176590d9c70e95c9f0395da9a152a",
+      "bytes": 138
+    },
+    {
+      "url": "icon.svg",
+      "sha256": "b89dd8368d34c4c57b7c6c15780d9682178df1fb42929ff120aea75f18cb1f3b",
+      "bytes": 316
+    },
+    {
+      "url": "index.html",
+      "sha256": "18407520e65d55b89b990da57aff86025902f20a4aabd0a28039525112fe3326",
+      "bytes": 1445
+    },
+    {
+      "url": "manifest.webmanifest",
+      "sha256": "116aa2d8c8b277937ab887a2f493e0e1151ee7d4b61279f902ef2a671d923a7d",
+      "bytes": 340
+    },
+    {
+      "url": "registry.json",
+      "sha256": "f6d5ae28c8322d637ad364159d779fed822a24c0e031c55ce00e060da45c3737",
+      "bytes": 9174
+    },
+    {
+      "url": "search-index.json",
+      "sha256": "ed1eb586397672620e4e033565121cdc7b7253681d4529e81289dcd62ae4de7c",
+      "bytes": 5505
+    },
+    {
+      "url": "shared/knowledge.json",
+      "sha256": "691aec5c10a283b7599ac642a50019d7ffd4630c022d42860431c9165afe3136",
+      "bytes": 64
+    },
+    {
+      "url": "shared/media/catalog.json",
+      "sha256": "35ec2522b749667d1988ca6fd201af5b7754e414361e8d2d5cf789d6ad6fb140",
+      "bytes": 391
+    },
+    {
+      "url": "shared/media/five-senses-header.svg",
+      "sha256": "25a12b38f3e3cad43fd05b260176f45aed17f5d894ffa1fb57f16b049595be6a",
+      "bytes": 2292
+    }
+  ]
+}

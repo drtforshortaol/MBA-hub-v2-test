@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "version": "2.0.0-alpha.1",
+  "environment": "tester",
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Animals",
+      "icon": "🐟",
+      "description": "Species apps, animal facts, conservation notes, and guide-ready explanations."
+    },
+    {
+      "id": "aquarium-updates",
+      "title": "Aquarium Updates",
+      "icon": "📰",
+      "description": "Recent animal news, program changes, facility notes, and volunteer announcements."
+    },
+    {
+      "id": "cannery-row",
+      "title": "Cannery Row",
+      "icon": "🏛️",
+      "description": "Cannery Row history, concierge tools, restaurants, hotels, and walking guides."
+    },
+    {
+      "id": "concepts",
+      "title": "Concepts",
+      "icon": "💡",
+      "description": "Science, ocean literacy, ecology, and conservation concepts."
+    },
+    {
+      "id": "exhibits",
+      "title": "Exhibits",
+      "icon": "🌊",
+      "description": "Exhibit reference apps and habitat information."
+    },
+    {
+      "id": "guide-talks",
+      "title": "Guide Talks",
+      "icon": "🎤",
+      "description": "Talk outlines, themes, stories, and interpretive prompts."
+    },
+    {
+      "id": "making-the-aquarium-come-alive",
+      "title": "Making the Aquarium Come Alive",
+      "icon": "✨",
+      "description": "Stories, kid facts, visitor engagement, and interpretation tools."
+    },
+    {
+      "id": "seafood-watch",
+      "title": "Seafood Watch",
+      "icon": "🍽️",
+      "description": "Seafood Watch tools, talking points, and visitor resources."
+    },
+    {
+      "id": "visitor-questions",
+      "title": "Visitor Questions",
+      "icon": "❓",
+      "description": "Common visitor questions and short answers."
+    },
+    {
+      "id": "visitor-services",
+      "title": "Visitor Services",
+      "icon": "🗺️",
+      "description": "Visitor support, directions, accessibility, and service information."
+    },
+    {
+      "id": "volunteer-tools",
+      "title": "Volunteer Tools",
+      "icon": "🧰",
+      "description": "Volunteer reference tools, procedures, quick references, troubleshooting, and support apps."
+    }
+  ],
+  "apps": [
+    {
+      "schema_version": 1,
+      "app_id": "five-senses-pwa",
+      "title": "Using the Five Senses",
+      "category": "volunteer-tools",
+      "type": "reference",
+      "version": "2.0.0-alpha.1",
+      "entry_point": "apps/five-senses-pwa/index.html",
+      "status": "testing",
+      "owner": "five-senses-pwa",
+      "dependencies": [
+        {
+          "id": "navigation",
+          "version": "1.0.0"
+        }
+      ],
+      "offline_assets": [
+        "apps/five-senses-pwa/index.html",
+        "apps/five-senses-pwa/styles.css",
+        "apps/five-senses-pwa/app.js",
+        "apps/five-senses-pwa/data.js"
+      ],
+      "media": [
+        "five-senses-header"
+      ],
+      "knowledge": [],
+      "cross_links": [],
+      "sections": [
+        {
+          "id": "touch",
+          "title": "Touch",
+          "text": "Tactile items · texture language · safety",
+          "aliases": [
+            "touch",
+            "tactile items",
+            "texture language",
+            "touch pools",
+            "safe touch"
+          ]
+        },
+        {
+          "id": "hearing",
+          "title": "Hearing",
+          "text": "Water · animals · ocean soundscapes",
+          "aliases": [
+            "hearing",
+            "sound",
+            "water movement",
+            "animal sounds",
+            "ocean soundscapes"
+          ]
+        },
+        {
+          "id": "smell",
+          "title": "Smell",
+          "text": "Seawater · kelp · coastal habitats",
+          "aliases": [
+            "smell",
+            "seawater",
+            "kelp",
+            "tidepool",
+            "coastal habitats"
+          ]
+        },
+        {
+          "id": "taste",
+          "title": "Taste",
+          "text": "Familiar comparisons · animal adaptations",
+          "aliases": [
+            "taste",
+            "familiar comparisons",
+            "seafood texture",
+            "animal adaptations"
+          ]
+        }
+      ],
+      "source_version": "1.2"
+    },
+    {
+      "schema_version": 1,
+      "app_id": "interpretation-principles",
+      "title": "Six Interpretation Principles",
+      "category": "volunteer-tools",
+      "type": "reference",
+      "version": "2.0.0-alpha.1",
+      "entry_point": "apps/interpretation-principles/index.html",
+      "status": "testing",
+      "owner": "interpretation-principles",
+      "dependencies": [
+        {
+          "id": "navigation",
+          "version": "1.0.0"
+        }
+      ],
+      "offline_assets": [
+        "apps/interpretation-principles/index.html",
+        "apps/interpretation-principles/styles.css",
+        "apps/interpretation-principles/app.js",
+        "apps/interpretation-principles/data.js"
+      ],
+      "media": [],
+      "knowledge": [],
+      "cross_links": [],
+      "sections": [
+        {
+          "id": "relate",
+          "title": "RELATE",
+          "text": "Start with visitors' reactions Begin with what guests see, feel, notice, and wonder — not with what the volunteer wants to teach first. Interpretation begins with the visitor's own reaction. This validates curiosity and helps visitors feel immediately connected to the exhibit. Notice first, teach second. What drew your eye first? That's a great observation — I noticed that too! What does this remind you of?",
+          "aliases": [
+            "visitor engagement",
+            "questions",
+            "observations",
+            "conversation starter"
+          ]
+        },
+        {
+          "id": "reveal",
+          "title": "REVEAL",
+          "text": "Connect info to the visitor's reaction — bring the wow Connect information to what the guest already noticed so the meaning lands. Instead of giving random facts, connect information to the guest's initial reaction. This is where the aha moment happens. Tie the fact to the visitor's observation.",
+          "aliases": [
+            "aha moment",
+            "kelp forest",
+            "meaning",
+            "facts"
+          ]
+        },
+        {
+          "id": "stories",
+          "title": "STORIES",
+          "text": "Inform, entertain, and enlighten Use stories, comparisons, and memorable images so visitors care and remember. Stories are how humans make meaning. They create emotional connections and help guests remember what they learned. Interpretation is an art — use it. Make the idea memorable. Giant kelp can grow two feet a day. Imagine if your houseplants did that! Sea otters are like the forest keepers — they protect the kelp by eating urchins.",
+          "aliases": [
+            "storytelling",
+            "sea otters",
+            "kelp forest",
+            "memory",
+            "metaphor"
+          ]
+        },
+        {
+          "id": "engage",
+          "title": "ENGAGE",
+          "text": "Ask questions as well as answer them Invite visitors into the conversation so they think, notice, and participate. Interpretation should provoke curiosity, not just deliver information. Guests think more deeply when invited into the conversation. Turn facts into conversation. Why do you think the fish school that way? What do you notice about how the kelp moves? Which animals draw your attention?",
+          "aliases": [
+            "questions",
+            "visitor engagement",
+            "fish",
+            "conversation"
+          ]
+        },
+        {
+          "id": "whole",
+          "title": "WHOLE",
+          "text": "Present a whole rather than a part Help guests see systems, relationships, and the full picture rather than isolated facts. Help guests see the full picture — connections, systems, relationships — rather than isolated facts. This deepens understanding and sparks wonder about how everything fits together. Connect the parts into a system. What you're seeing here is a whole forest under water: animals, plants, water movement, light — they all depend on each other. Every species in the kelp forest helps keep the ecosystem in balance. If one suddenly went away, the entire forest would be affected.",
+          "aliases": [
+            "ecosystem",
+            "kelp forest",
+            "systems",
+            "connections",
+            "balance"
+          ]
+        },
+        {
+          "id": "adjust",
+          "title": "ADJUST",
+          "text": "Children need a different approach, not a simplified adult one Use imagination, motion, metaphor, and feelings when speaking with children. Kids are not adults with fewer facts. They interpret the world through touch, metaphor, emotion, and imagination. Different approaches help them connect authentically. Change the approach, not just the vocabulary. What does this fish remind you of? Can you move your hand like the kelp sways? How do you feel looking at the animals in the kelp forest?",
+          "aliases": [
+            "kids",
+            "families",
+            "movement",
+            "emotion",
+            "imagination"
+          ]
+        }
+      ],
+      "source_version": "1.0"
+    }
+  ]
+}

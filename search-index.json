@@ -1,0 +1,74 @@
+[
+  {
+    "app_id": "five-senses-pwa",
+    "title": "Using the Five Senses",
+    "text": "Using the Five Senses",
+    "url": "apps/five-senses-pwa/index.html"
+  },
+  {
+    "app_id": "five-senses-pwa",
+    "title": "Using the Five Senses · Touch",
+    "text": "Touch Tactile items · texture language · safety touch tactile items texture language touch pools safe touch",
+    "url": "apps/five-senses-pwa/index.html#touch"
+  },
+  {
+    "app_id": "five-senses-pwa",
+    "title": "Using the Five Senses · Hearing",
+    "text": "Hearing Water · animals · ocean soundscapes hearing sound water movement animal sounds ocean soundscapes",
+    "url": "apps/five-senses-pwa/index.html#hearing"
+  },
+  {
+    "app_id": "five-senses-pwa",
+    "title": "Using the Five Senses · Smell",
+    "text": "Smell Seawater · kelp · coastal habitats smell seawater kelp tidepool coastal habitats",
+    "url": "apps/five-senses-pwa/index.html#smell"
+  },
+  {
+    "app_id": "five-senses-pwa",
+    "title": "Using the Five Senses · Taste",
+    "text": "Taste Familiar comparisons · animal adaptations taste familiar comparisons seafood texture animal adaptations",
+    "url": "apps/five-senses-pwa/index.html#taste"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles",
+    "text": "Six Interpretation Principles",
+    "url": "apps/interpretation-principles/index.html"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · RELATE",
+    "text": "RELATE Start with visitors' reactions Begin with what guests see, feel, notice, and wonder — not with what the volunteer wants to teach first. Interpretation begins with the visitor's own reaction. This validates curiosity and helps visitors feel immediately connected to the exhibit. Notice first, teach second. What drew your eye first? That's a great observation — I noticed that too! What does this remind you of? visitor engagement questions observations conversation starter",
+    "url": "apps/interpretation-principles/index.html#relate"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · REVEAL",
+    "text": "REVEAL Connect info to the visitor's reaction — bring the wow Connect information to what the guest already noticed so the meaning lands. Instead of giving random facts, connect information to the guest's initial reaction. This is where the aha moment happens. Tie the fact to the visitor's observation. aha moment kelp forest meaning facts",
+    "url": "apps/interpretation-principles/index.html#reveal"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · STORIES",
+    "text": "STORIES Inform, entertain, and enlighten Use stories, comparisons, and memorable images so visitors care and remember. Stories are how humans make meaning. They create emotional connections and help guests remember what they learned. Interpretation is an art — use it. Make the idea memorable. Giant kelp can grow two feet a day. Imagine if your houseplants did that! Sea otters are like the forest keepers — they protect the kelp by eating urchins. storytelling sea otters kelp forest memory metaphor",
+    "url": "apps/interpretation-principles/index.html#stories"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · ENGAGE",
+    "text": "ENGAGE Ask questions as well as answer them Invite visitors into the conversation so they think, notice, and participate. Interpretation should provoke curiosity, not just deliver information. Guests think more deeply when invited into the conversation. Turn facts into conversation. Why do you think the fish school that way? What do you notice about how the kelp moves? Which animals draw your attention? questions visitor engagement fish conversation",
+    "url": "apps/interpretation-principles/index.html#engage"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · WHOLE",
+    "text": "WHOLE Present a whole rather than a part Help guests see systems, relationships, and the full picture rather than isolated facts. Help guests see the full picture — connections, systems, relationships — rather than isolated facts. This deepens understanding and sparks wonder about how everything fits together. Connect the parts into a system. What you're seeing here is a whole forest under water: animals, plants, water movement, light — they all depend on each other. Every species in the kelp forest helps keep the ecosystem in balance. If one suddenly went away, the entire forest would be affected. ecosystem kelp forest systems connections balance",
+    "url": "apps/interpretation-principles/index.html#whole"
+  },
+  {
+    "app_id": "interpretation-principles",
+    "title": "Six Interpretation Principles · ADJUST",
+    "text": "ADJUST Children need a different approach, not a simplified adult one Use imagination, motion, metaphor, and feelings when speaking with children. Kids are not adults with fewer facts. They interpret the world through touch, metaphor, emotion, and imagination. Different approaches help them connect authentically. Change the approach, not just the vocabulary. What does this fish remind you of? Can you move your hand like the kelp sways? How do you feel looking at the animals in the kelp forest? kids families movement emotion imagination",
+    "url": "apps/interpretation-principles/index.html#adjust"
+  }
+]
