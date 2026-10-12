@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.4",
   "environment": "tester",
-  "release": "82545eb0a744c8e6",
+  "release": "372b656d714ce8a8",
   "resources": [
     {
       "url": "apps/five-senses-pwa/app.js",
@@ -71,8 +71,8 @@
     },
     {
       "url": "core/hub.js",
-      "sha256": "c79cf3696ccd1fcd623980cb1c1f8e056d669bcb207a007be5fe34b21d0954a6",
-      "bytes": 6094
+      "sha256": "0d91989d2a02d2bf3d8112e1bf57b0f75f50122be258795ad6480e30aebdc6c8",
+      "bytes": 6225
     },
     {
       "url": "core/navigation.js",
@@ -91,7 +91,7 @@
     },
     {
       "url": "environment.json",
-      "sha256": "0e289ef9b88bc28922cca52356deb58abef3632dd91ef8bcb72973b2c42b319a",
+      "sha256": "029d4c1bdfde44de860aaf89bec4276745a3bf8d1e0bef6ca8f2560a275c6221",
       "bytes": 138
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "7cd7b8bc586fe5693d1715640148d407c739998e649bb99d07bba438679042f1",
+      "sha256": "71d89ddb0330c71b4ef3c5738635abbb426651ea6962608a4fae6b4e00342507",
       "bytes": 1445
     },
     {
@@ -110,8 +110,13 @@
       "bytes": 340
     },
     {
+      "url": "refresh.html",
+      "sha256": "3f8a58ead1021cb3efaa8dff2701c1ad6f0afc302fd496731f9e229a413e6f68",
+      "bytes": 3051
+    },
+    {
       "url": "registry.json",
-      "sha256": "16c7f3b5825b43a40d1e465328739efbd59f58cf494edee2df2b2c686b6238ae",
+      "sha256": "16414bd12b745074e016a1beed505c236ffaa72a0c32ab82a6effa6e0ef9b601",
       "bytes": 9174
     },
     {

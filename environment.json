@@ -1,6 +1,6 @@
 {
   "environment": "tester",
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.4",
   "stage": "foundation",
   "namespace": "mba-v2-tester",
   "developer": false

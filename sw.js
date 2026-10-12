@@ -1,4 +1,4 @@
-const NAMESPACE='mba-v2-tester',RELEASE='82545eb0a744c8e6',ROOT=new URL('./',self.location.href),PREFIX=NAMESPACE+':'+ROOT.pathname+':',CACHE=PREFIX+RELEASE;
+const NAMESPACE='mba-v2-tester',RELEASE='372b656d714ce8a8',ROOT=new URL('./',self.location.href),PREFIX=NAMESPACE+':'+ROOT.pathname+':',CACHE=PREFIX+RELEASE;
 const absolute=p=>new URL(p,ROOT).href;
 async function digest(response){const bytes=await response.clone().arrayBuffer();return [...new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))].map(x=>x.toString(16).padStart(2,'0')).join('');}
 async function verified(response,item){return response&&response.ok&&(await digest(response))===item.sha256;}
@@ -23,9 +23,10 @@ self.addEventListener('message',event=>{
  const clientURL=event.source?.url?new URL(event.source.url):null;if(!clientURL||clientURL.origin!==ROOT.origin||!clientURL.pathname.startsWith(ROOT.pathname))return;
  event.waitUntil((async()=>{try{
  const type=event.data?.type;if(type==='REPAIR'){if(!NAMESPACE.endsWith('-developer'))throw Error('Read-only environment');await prepare();}
- else if(type!=='STATUS')throw Error('Unsupported command');
+ else if(type!=='STATUS'&&type!=='ACTIVATE_UPDATE')throw Error('Unsupported command');
  const cache=await caches.open(CACHE),response=await cache.match(absolute('release.json'));if(!response){event.ports[0]?.postMessage({complete:false,count:0,total:0,release:RELEASE});return;}
  const manifest=await response.json();let count=0;for(const item of manifest.resources){if(await verified(await cache.match(absolute(item.url)),item))count++;}
+ if(type==='ACTIVATE_UPDATE'){if(count!==manifest.resources.length)throw Error('Update is not completely verified');event.ports[0]?.postMessage({activating:true,release:RELEASE});await self.skipWaiting();return;}
  event.ports[0]?.postMessage({complete:count===manifest.resources.length,count,total:manifest.resources.length,release:RELEASE});
  }catch(e){event.ports[0]?.postMessage({error:e.message});}})());
 });
