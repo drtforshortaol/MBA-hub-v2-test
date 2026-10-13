@@ -2,7 +2,7 @@
   "schema_version": 1,
   "version": "2.0.0-alpha.7",
   "environment": "tester",
-  "release": "7cb71e6845a6ba73",
+  "release": "b0b2a512b76abac6",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
@@ -616,8 +616,8 @@
     },
     {
       "url": "install.html",
-      "sha256": "743590c3ac322b6cdba889838819fee2f9a130f3efa0bf5f1c6d5ceae2ae340d",
-      "bytes": 6764
+      "sha256": "cec29ca5d489c0406104c07dff8e5476e5fb80f5b94750555ceab5930f84a283",
+      "bytes": 6708
     },
     {
       "url": "manifest.webmanifest",
