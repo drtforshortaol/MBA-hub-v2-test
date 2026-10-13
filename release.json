@@ -2,7 +2,7 @@
   "schema_version": 1,
   "version": "2.0.0-alpha.7",
   "environment": "tester",
-  "release": "b0b2a512b76abac6",
+  "release": "44b6712bf248b16c",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
@@ -346,8 +346,8 @@
     },
     {
       "url": "apps/naturalist-field-notes/app.js",
-      "sha256": "e0a868f8ad4c3e363cd93e9ee689d30b62be6d391ca99595364aaeecdd30b295",
-      "bytes": 16862
+      "sha256": "e667005ff339ef0c4b8aae021dc6bc66080f0b5d8edfa56c13fc88cc88f2998d",
+      "bytes": 17001
     },
     {
       "url": "apps/naturalist-field-notes/data.js",
