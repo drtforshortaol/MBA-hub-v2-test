@@ -134,7 +134,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -956,7 +956,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/aquarium-shift-library-",
       "source_commit": "9438060bd836c46245e4af45c280e4bb37b0ab94",
-      "publication_review": "pending",
+      "publication_review": "inherited-v1-approved",
       "integration": {
         "mode": "read-only-offline-distribution",
         "interface_version": "1.0.0",
@@ -1051,7 +1051,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -1141,7 +1141,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -1244,7 +1244,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -1500,7 +1500,7 @@
       "source_version": "11",
       "source_repository": "drtforshortaol/evolution-timeline",
       "source_commit": "c6d782d3a8a03e407861a0fbc3aab76e5fbf8d0c",
-      "publication_review": "pending",
+      "publication_review": "inherited-v1-approved",
       "integration": {
         "mode": "read-only-offline-distribution",
         "interface_version": "1.0.0",
@@ -1645,7 +1645,7 @@
       "source_version": "1.2",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -1759,7 +1759,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -1864,7 +1864,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2055,7 +2055,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2127,7 +2127,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2218,7 +2218,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2297,7 +2297,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2373,7 +2373,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2407,7 +2407,7 @@
       "source_version": "2.1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2517,7 +2517,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2572,7 +2572,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2639,7 +2639,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -2781,7 +2781,7 @@
       "source_version": "1.1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3258,7 +3258,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3325,7 +3325,7 @@
       "source_version": "1.2",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3385,7 +3385,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3479,7 +3479,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3542,7 +3542,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3615,7 +3615,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3690,7 +3690,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -3778,7 +3778,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -4130,7 +4130,7 @@
       "source_version": "preserved-v1",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -4245,7 +4245,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -4332,7 +4332,7 @@
       "source_version": "1.5",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -4424,7 +4424,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     },
     {
       "schema_version": 1,
@@ -4555,7 +4555,7 @@
       "source_version": "1.0",
       "source_repository": "drtforshortaol/MBA-hub",
       "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-      "publication_review": "pending"
+      "publication_review": "inherited-v1-approved"
     }
   ]
 }
