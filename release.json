@@ -2,7 +2,7 @@
   "schema_version": 1,
   "version": "2.0.0-alpha.6",
   "environment": "tester",
-  "release": "c78c18164c8022b9",
+  "release": "c76ea54994145062",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
@@ -211,8 +211,8 @@
     },
     {
       "url": "apps/information-center/index.html",
-      "sha256": "a60fd7a800a4d82a75d67ee130ed7c9652edc838d381b3292d81455706bec7a2",
-      "bytes": 517
+      "sha256": "746e84d313a98f3e22d7fb55a590a847dd2c9aa14355ee083af1d559ba97f1f7",
+      "bytes": 519
     },
     {
       "url": "apps/information-center/manifest.json",
@@ -271,8 +271,8 @@
     },
     {
       "url": "apps/mba-leadership/index.html",
-      "sha256": "fbc52d1d5e9ed7870958663ae1742c364b3323318643c9e401536e36ac3fe2dd",
-      "bytes": 491
+      "sha256": "18d7d8de47b72876611663d420237a3ca60e37fa4524ad908a8fbc948c79d818",
+      "bytes": 493
     },
     {
       "url": "apps/mba-leadership/manifest.json",
