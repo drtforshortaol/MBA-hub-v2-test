@@ -16,15 +16,19 @@
     }
   ],
   "offline_assets": [
-    "apps/information-center/index.html"
+    "apps/information-center/app.js",
+    "apps/information-center/data.js",
+    "apps/information-center/index.html",
+    "apps/information-center/styles.css"
   ],
-  "media": [],
+  "media": [
+    "asset-1e94c29588faf6ba"
+  ],
   "knowledge": [],
   "cross_links": [],
   "sections": [],
   "source_version": "2.1",
   "source_repository": "drtforshortaol/MBA-hub",
   "source_commit": "5c219508d23255080f6b050cefa8092905447d81",
-  "publication_review": "pending",
-  "public_review": "internal-content-withheld"
+  "publication_review": "pending"
 }

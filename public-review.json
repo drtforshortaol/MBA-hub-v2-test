@@ -1,8 +1,13 @@
 {
-  "libraryPersonalFieldsRemoved": 78,
-  "operationalItemsRemoved": 56,
-  "withheldApps": [
+  "publication": "owner-authorized-guide-collection",
+  "authorizationDate": "2026-10-12",
+  "libraryPersonalFieldsRemoved": 0,
+  "operationalItemsRemoved": 0,
+  "withheldApps": [],
+  "restored": [
     "information-center",
-    "mba-leadership"
+    "mba-leadership",
+    "naturalist-field-notes",
+    "aquarium-library-explorer"
   ]
 }

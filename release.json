@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "2.0.0-alpha.6",
+  "version": "2.0.0-alpha.7",
   "environment": "tester",
-  "release": "c76ea54994145062",
+  "release": "5757a736186b7f8f",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
@@ -16,8 +16,8 @@
     },
     {
       "url": "apps/applied-water-science-life-support/manifest.json",
-      "sha256": "7923436549c93b2f0fbd58e72aab00e337608011a425ad6f0af68f4897cf7677",
-      "bytes": 5925
+      "sha256": "dadc89f10a9dc2a483580799edb74e20b904969b12da677bf9c2d873cefada82",
+      "bytes": 5958
     },
     {
       "url": "apps/applied-water-science-life-support/styles.css",
@@ -26,18 +26,18 @@
     },
     {
       "url": "apps/aquarium-library-explorer/index.html",
-      "sha256": "0170e4a6090cf2297f9c28bbe2f7733b5cd422ab01ed49fd693b052d46531261",
-      "bytes": 6611
+      "sha256": "53317ac21e05235244026925abced83e8bf05c616e648852160d17b1d985fa85",
+      "bytes": 6616
     },
     {
       "url": "apps/aquarium-library-explorer/library-data.js",
-      "sha256": "2e8cbe90e89163df3f2b514e5ace571c91ad921f8c35b95b4b743e150beb389b",
-      "bytes": 22768
+      "sha256": "35bd9bf0e106633c226982d20453f591a63eca20393cd81a5981b887bc4febe3",
+      "bytes": 28916
     },
     {
       "url": "apps/aquarium-library-explorer/manifest.json",
-      "sha256": "b2f87ab28028174b8f1488635f9f9bdddd71b4ea743f7a285c03405f8655deb2",
-      "bytes": 26704
+      "sha256": "31c7fa8360fe93094d1a3fc1b897d2ac7fcc90a6082ea66a19d3d7459ced4d54",
+      "bytes": 33734
     },
     {
       "url": "apps/bluespotted-ribbontail-ray/index.html",
@@ -46,8 +46,8 @@
     },
     {
       "url": "apps/bluespotted-ribbontail-ray/manifest.json",
-      "sha256": "c62406574592f92c2d812903f4db763a50ee40f211e168b2f0c4b77479fda468",
-      "bytes": 3969
+      "sha256": "3bc56b9ca220da0e020fe074ac9ba8803f0bab52c47858839404dd4ffb2e224e",
+      "bytes": 3993
     },
     {
       "url": "apps/california-flying-fish/index.html",
@@ -56,8 +56,8 @@
     },
     {
       "url": "apps/california-flying-fish/manifest.json",
-      "sha256": "e885863767468a442a6317b4effa3b3f471aa8e572dc6bd3a78205125bfc69f5",
-      "bytes": 5890
+      "sha256": "d85c5a37ad83f9fb506e883f7b2e75c381220e7e86a161026ff90fecb0294035",
+      "bytes": 5955
     },
     {
       "url": "apps/california-sheephead/index.html",
@@ -66,8 +66,8 @@
     },
     {
       "url": "apps/california-sheephead/manifest.json",
-      "sha256": "77928d1319044a672533930ca208b1b8453479df8418047240bc6655030dafa5",
-      "bytes": 6183
+      "sha256": "bea9743fb3a4db577f8b6cf500276676c2f78e18a8f674163db3cdfdcd67f131",
+      "bytes": 6276
     },
     {
       "url": "apps/evolution-timeline/app.js",
@@ -81,8 +81,8 @@
     },
     {
       "url": "apps/evolution-timeline/manifest.json",
-      "sha256": "076c2cac54a95da2b4a51c3bb8298058bdacd74f4009234ecea3541176339fb7",
-      "bytes": 6833
+      "sha256": "1ccc068cef532a3912bed42ec49ac99cf91397c94c3f5d6606be239dddbf08fb",
+      "bytes": 6857
     },
     {
       "url": "apps/evolution-timeline/styles.css",
@@ -111,8 +111,8 @@
     },
     {
       "url": "apps/five-senses-pwa/manifest.json",
-      "sha256": "383339e660dfce46102c639b58d78d92667ecdb9e29bef10760ff0fbf89f116c",
-      "bytes": 7279
+      "sha256": "3f8f57675f8ab67c8ff31b4f0c54bdd8d670db3cdc0336b77e9a6e1c086135d0",
+      "bytes": 7316
     },
     {
       "url": "apps/five-senses-pwa/styles.css",
@@ -131,8 +131,8 @@
     },
     {
       "url": "apps/flamboyant-cuttlefish/manifest.json",
-      "sha256": "23bd069d3ee35eed9e6828340335b7ab88de7076bdfe75a1bbd491c0a2c4a150",
-      "bytes": 8726
+      "sha256": "19205bc0076127a9ad8464a8bb07ae1c54b7fc5159e7853c0246cc4818effbfa",
+      "bytes": 8795
     },
     {
       "url": "apps/flamboyant-cuttlefish/styles.css",
@@ -151,8 +151,8 @@
     },
     {
       "url": "apps/gooseneck-barnacle/manifest.json",
-      "sha256": "dea191b558c7c6cc56e9f6658b8d5575358e91eb13d031d68d040a3eeec3eac2",
-      "bytes": 6365
+      "sha256": "d48b6ebae24447cfd943760a1f1e80bdf262c037cd7fd800d081e93442488789",
+      "bytes": 6383
     },
     {
       "url": "apps/gooseneck-barnacle/styles.css",
@@ -166,8 +166,8 @@
     },
     {
       "url": "apps/gray-whale/manifest.json",
-      "sha256": "eb31ac6c24fefd03549ce720cc834077c023257e30c858b788e6887e9f01f4b1",
-      "bytes": 23036
+      "sha256": "b0165901b498019e39c97359b93dfe50f3baadd60f3a4aabc9460084e5e146f5",
+      "bytes": 23421
     },
     {
       "url": "apps/gray-whale-skeleton-exhibit/index.html",
@@ -176,8 +176,8 @@
     },
     {
       "url": "apps/gray-whale-skeleton-exhibit/manifest.json",
-      "sha256": "505ba0a6b1ceb74a0e6e821013d7a1012b3694c0781f0214322253dcc8cc4624",
-      "bytes": 9491
+      "sha256": "dfb0b5161e25141c9c14e928707b3effed59a13ddb18364776f83aeea4c3a1b4",
+      "bytes": 9611
     },
     {
       "url": "apps/green-falsejingle/index.html",
@@ -186,8 +186,8 @@
     },
     {
       "url": "apps/green-falsejingle/manifest.json",
-      "sha256": "d66bb6e669aa76b7773919ab9229ce34e7130c6f26b97001057f8ef8a6878ddb",
-      "bytes": 4766
+      "sha256": "76f109c4b8e608d4f5ed3b5336ba52206b2a08affd7ee961dfaa02e11bca34b2",
+      "bytes": 4784
     },
     {
       "url": "apps/hopkins-rose-nudibranch/index.html",
@@ -196,8 +196,8 @@
     },
     {
       "url": "apps/hopkins-rose-nudibranch/manifest.json",
-      "sha256": "821e6e7e2ad522c1bbe6fd1768a2ba006dc3be9fbce0ca786fbacc5b17a54e33",
-      "bytes": 3336
+      "sha256": "8b223a8827d042655b057cc30b8f9f6c6a2513f2b8e9477ac4a4822a80927daf",
+      "bytes": 3388
     },
     {
       "url": "apps/inaturalist-citizen-science/index.html",
@@ -206,18 +206,33 @@
     },
     {
       "url": "apps/inaturalist-citizen-science/manifest.json",
-      "sha256": "d7a4505ce90239b2413b04c53bee339af9243970ce28f12cc4c812381ee22fc6",
-      "bytes": 5558
+      "sha256": "0cc21f6c42a89c8bde362c12668f265fc55f7cbbc43dc4900fae774d7342e07b",
+      "bytes": 5604
+    },
+    {
+      "url": "apps/information-center/app.js",
+      "sha256": "3a6f88cefd777b8f49c8a6b12757448073c0469a4a3a04a8bc17ebb48c9bf33c",
+      "bytes": 9585
+    },
+    {
+      "url": "apps/information-center/data.js",
+      "sha256": "3503d6ed30b7f1bf70a31bc8cab63a462bc453e4a9742ce29135850e5ce0a164",
+      "bytes": 18635
     },
     {
       "url": "apps/information-center/index.html",
-      "sha256": "746e84d313a98f3e22d7fb55a590a847dd2c9aa14355ee083af1d559ba97f1f7",
-      "bytes": 519
+      "sha256": "a422da4397c337161fbbbe5742b505417d282373e44b53d8093b9cdfd08f2324",
+      "bytes": 2786
     },
     {
       "url": "apps/information-center/manifest.json",
-      "sha256": "d3ded075bce30e4350428d9fbe482c50dc3e2a0dfeffc9fae4a4a8a48b6c8842",
-      "bytes": 767
+      "sha256": "4905b2603c42159e7b09457da8c23a27c68a6f233e26c7256b942eed599c6c86",
+      "bytes": 870
+    },
+    {
+      "url": "apps/information-center/styles.css",
+      "sha256": "0ca2a7a5fb8ba77698cb6261cba60b29a8f0a1516729d251c4dd641d46523468",
+      "bytes": 11401
     },
     {
       "url": "apps/interpretation-principles/app.js",
@@ -236,8 +251,8 @@
     },
     {
       "url": "apps/interpretation-principles/manifest.json",
-      "sha256": "191e4a1dd21ab032de83e85e6053cbfb7e50c39301d900da89612ef099b105ba",
-      "bytes": 5644
+      "sha256": "911d9f65e28b05f50b6e1051e1c5ce30d9fa803ce1a26125617e1fbe87724210",
+      "bytes": 5686
     },
     {
       "url": "apps/interpretation-principles/styles.css",
@@ -261,8 +276,8 @@
     },
     {
       "url": "apps/kelp-forest/manifest.json",
-      "sha256": "f12e383734f3c56e7469df5f7e7b66cbeda559017810a6ffc7e766629acbacd9",
-      "bytes": 11104
+      "sha256": "3676085c8c82295f5d3bdfb00125ae42ff4cdf66859faebbfc7b2557f663c3da",
+      "bytes": 11143
     },
     {
       "url": "apps/kelp-forest/styles.css",
@@ -270,14 +285,34 @@
       "bytes": 6759
     },
     {
+      "url": "apps/mba-leadership/app.js",
+      "sha256": "f45f4aa45e642a1c7f89d473eb8a1dbaee4ed9728be42eab6ae7aa002318bc75",
+      "bytes": 5498
+    },
+    {
+      "url": "apps/mba-leadership/apps.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "url": "apps/mba-leadership/data.js",
+      "sha256": "2643b20c17eea744696c402710c9cba3ade60bbaa8117e47d944ba472a707a4b",
+      "bytes": 2249
+    },
+    {
       "url": "apps/mba-leadership/index.html",
-      "sha256": "18d7d8de47b72876611663d420237a3ca60e37fa4524ad908a8fbc948c79d818",
-      "bytes": 493
+      "sha256": "67b04bc75554b6563d6eaaf8d4b8e404f20e356a50822278a06881cd2650e6c8",
+      "bytes": 1343
     },
     {
       "url": "apps/mba-leadership/manifest.json",
-      "sha256": "6495cdff7c57e003ff7a958243b06f47082b56df5cc25e8c1ca75481695b71f8",
-      "bytes": 739
+      "sha256": "9cd7850d710f7aaeb664bb49495bef897847ecc9b8570209209902a269b0e648",
+      "bytes": 2375
+    },
+    {
+      "url": "apps/mba-leadership/styles.css",
+      "sha256": "bfa259a27ab92ecded650ac0820e675870584e1c4941bf8ab40f999b0164c031",
+      "bytes": 7561
     },
     {
       "url": "apps/mmc-narrations/app.js",
@@ -301,8 +336,8 @@
     },
     {
       "url": "apps/mmc-narrations/manifest.json",
-      "sha256": "90aeccf3ecb732a8f86b6ae6bee9f920b339ae487b30a8e2c052a29e024d8361",
-      "bytes": 15055
+      "sha256": "6acab7c5769c358a0b239445d48063e332c3064bd00210ea5793453310622df3",
+      "bytes": 15244
     },
     {
       "url": "apps/mmc-narrations/styles.css",
@@ -316,8 +351,8 @@
     },
     {
       "url": "apps/naturalist-field-notes/data.js",
-      "sha256": "4f87cea8d6d3d6c57fa5baab2982b59a35e003aa2b4ba306b428ce60e9f54cf0",
-      "bytes": 124154
+      "sha256": "683693a6417256d65056a48145ded9714159adb2bef56ec5e8e434334b83a089",
+      "bytes": 140238
     },
     {
       "url": "apps/naturalist-field-notes/inaturalist-reference.html",
@@ -331,8 +366,8 @@
     },
     {
       "url": "apps/naturalist-field-notes/manifest.json",
-      "sha256": "a8194d45c6ed9619ea336a2034b87f5bdb9b1a218de849564eeb68449bede5f9",
-      "bytes": 123388
+      "sha256": "cfdcf449eddf9cd3d781eb14d977b2aff54810ad7d1f26bf0fc71c5dce1af025",
+      "bytes": 132201
     },
     {
       "url": "apps/naturalist-field-notes/steve-webster-gray-whale.html",
@@ -361,8 +396,8 @@
     },
     {
       "url": "apps/northern-elephant-seal/manifest.json",
-      "sha256": "1ff972d22015f8ba7cb57288e5f03a901765a268204088d4153c509e0bfa0a57",
-      "bytes": 14509
+      "sha256": "80ae48b47bfc85aa1b886c4104fb23e0874b43bb8ada874b54591652eb09a73b",
+      "bytes": 14538
     },
     {
       "url": "apps/northern-elephant-seal/styles.css",
@@ -391,8 +426,8 @@
     },
     {
       "url": "apps/open-sea/manifest.json",
-      "sha256": "159d08dd6f745458290686fa1a00d0fa5267000a8ff44698d04dd87405555a0d",
-      "bytes": 5380
+      "sha256": "afddbb25c39b9890f3b67b6b0e8bdba1919de602c3f9f68e312c446f301b26b2",
+      "bytes": 5402
     },
     {
       "url": "apps/open-sea/styles.css",
@@ -406,8 +441,8 @@
     },
     {
       "url": "apps/pacific-white-sided-dolphin/manifest.json",
-      "sha256": "5030cb474d9945ad1b4297ec9149f26ea97092fe996820a771f509a5d3d8a8ed",
-      "bytes": 5371
+      "sha256": "d3bf25bea669c23ae83cdbc6570df4bbbb51e11d722293b9ad5b27bd2ba5db23",
+      "bytes": 5404
     },
     {
       "url": "apps/pseudo-nitzschia/index.html",
@@ -426,8 +461,8 @@
     },
     {
       "url": "apps/sea-slugs-nudibranchs/manifest.json",
-      "sha256": "7a5b4b59604d9694a8d10ffe43dcb391ae85bfaba14781a4556a78e06ef533e9",
-      "bytes": 2528
+      "sha256": "c8f112228f02295d961b7b223b36eb17bf86c2949b236ffe20b404c275aa4d44",
+      "bytes": 2561
     },
     {
       "url": "apps/sperm-whale/index.html",
@@ -436,8 +471,8 @@
     },
     {
       "url": "apps/sperm-whale/manifest.json",
-      "sha256": "737d7a6f693a9f8cade8ecc8ccffa42e8a4ccc63d1a1b76f9ddf2360c5852407",
-      "bytes": 3634
+      "sha256": "fcf50ef5de824785931a9da9c14cf9626435b63ecdec1994463455ae4d0658d5",
+      "bytes": 3655
     },
     {
       "url": "apps/stargazer-species-guide/index.html",
@@ -446,8 +481,8 @@
     },
     {
       "url": "apps/stargazer-species-guide/manifest.json",
-      "sha256": "f74b88f0abb68e2bf2940a672a1d43421b7f91c3dfbbf457ffa6c86b64604fd4",
-      "bytes": 3333
+      "sha256": "edada2b19bcaa2e16a378b3e1bb7f8600f37ab183cbaf264d999d75533b43a4d",
+      "bytes": 3336
     },
     {
       "url": "apps/tree-of-life-origins/app.js",
@@ -461,8 +496,8 @@
     },
     {
       "url": "apps/tree-of-life-origins/manifest.json",
-      "sha256": "a048646a768aafdc77272687bcd4a099f44e7b456ff66cba7479225339777470",
-      "bytes": 35415
+      "sha256": "a1659f37f30bb786d2bb93ace4befe29f6a14bfc9e08ffae9d5684e477bcc553",
+      "bytes": 35797
     },
     {
       "url": "apps/tree-of-life-origins/styles.css",
@@ -476,8 +511,8 @@
     },
     {
       "url": "apps/whale-associated-organisms/manifest.json",
-      "sha256": "b6d831c4aa37c2a2c5607df4689b6f13dcf074fa51fb3eaa15e8f3eb4b36f5a0",
-      "bytes": 9818
+      "sha256": "dc31fbecb1f5bda20fe1ad7b2af6418e5ce4e1fd08609e1cf3934238e95c2a3d",
+      "bytes": 9875
     },
     {
       "url": "apps/whale-parasites-associates/app.js",
@@ -496,8 +531,8 @@
     },
     {
       "url": "apps/whale-parasites-associates/manifest.json",
-      "sha256": "905d1a7eb764c4c5c96e614f6c354e9931700f30e8cb5996602a9182b73188db",
-      "bytes": 7411
+      "sha256": "8b49ff2f0d44dd893094ed1e95590eadf111d971958f375be87241afe2fdef77",
+      "bytes": 7438
     },
     {
       "url": "apps/whale-parasites-associates/styles.css",
@@ -511,8 +546,8 @@
     },
     {
       "url": "apps/wildfires-ocean-health/manifest.json",
-      "sha256": "ed800951988350be551de483ef08a55e88562ba9b899605d3e0049e0b1ec33f7",
-      "bytes": 5014
+      "sha256": "0ade6c7b5edcc8a70926befff5bfaf52418e18c2056a72993f7d538ae5023406",
+      "bytes": 5023
     },
     {
       "url": "apps/wildlife-rescue/index.html",
@@ -521,8 +556,8 @@
     },
     {
       "url": "apps/wildlife-rescue/manifest.json",
-      "sha256": "6eec76c813699e1f97a697ee69721621471a24c2fe7a06174b26a1a940194dc5",
-      "bytes": 10053
+      "sha256": "588c479c5e4d49732c491a08b17f772e2a52c73aaaa57ccceeb845ef030ad626",
+      "bytes": 10438
     },
     {
       "url": "apps/wildlife-rescue/styles.css",
@@ -546,8 +581,8 @@
     },
     {
       "url": "core/hub.js",
-      "sha256": "ed7e865e269d3f7cbfb0b1e3f632ec464b8f69e02a0dbc4c5b8d1c976b70a5fd",
-      "bytes": 6495
+      "sha256": "fa254c52a48164bb128268abba518b625e6a972d528286b45a35fe30d47067ea",
+      "bytes": 6666
     },
     {
       "url": "core/navigation.js",
@@ -566,7 +601,7 @@
     },
     {
       "url": "environment.json",
-      "sha256": "045209f5e8503993aeb850ff7e71ea9ede4c81e22d62ae6387f21cb95faf2aea",
+      "sha256": "e1f2d1e70859458661304379fc84dd0edb0fa01fb8f83a3bebfcdb8b52723132",
       "bytes": 144
     },
     {
@@ -586,8 +621,8 @@
     },
     {
       "url": "public-review.json",
-      "sha256": "de62be601125da1ead955b812469540311357a7a8bdde29695bd77c969bd360e",
-      "bytes": 145
+      "sha256": "e20a2f42fb23c5d0652ee9d9a7c7bfa0b3d84333e5227a5e84c3b9a06c51f226",
+      "bytes": 315
     },
     {
       "url": "refresh.html",
@@ -596,13 +631,13 @@
     },
     {
       "url": "registry.json",
-      "sha256": "e2d46b0dbaa562b0814c711f85c5b1b9e0c24729d49a1cb640c529cb1d71520a",
-      "bytes": 404692
+      "sha256": "8a750dd795c909d2c7b3d986c86a6ce891c15ed9b6110ac0c1b37a2b6ce7cca9",
+      "bytes": 421996
     },
     {
       "url": "search-index.json",
-      "sha256": "697867397ed01694e602ee28329e8694cac128a1b9315491569289c5fb4173d8",
-      "bytes": 419063
+      "sha256": "d5eddaa0730b90ff34d630bb7ee7418f36f956ee7e4549e3a5f15cc4998a7941",
+      "bytes": 432830
     },
     {
       "url": "shared/interfaces.json",
