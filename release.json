@@ -2,7 +2,7 @@
   "schema_version": 1,
   "version": "2.0.0-alpha.7",
   "environment": "tester",
-  "release": "5757a736186b7f8f",
+  "release": "1a00e66501b14a2a",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
@@ -160,16 +160,6 @@
       "bytes": 1919
     },
     {
-      "url": "apps/gray-whale/index.html",
-      "sha256": "e5f4a5abf97ec94682c9d66aa6c3718fb91b18be5ca5dcf483c68ff77c10da46",
-      "bytes": 31072
-    },
-    {
-      "url": "apps/gray-whale/manifest.json",
-      "sha256": "b0165901b498019e39c97359b93dfe50f3baadd60f3a4aabc9460084e5e146f5",
-      "bytes": 23421
-    },
-    {
       "url": "apps/gray-whale-skeleton-exhibit/index.html",
       "sha256": "548b59cbf5abfe490621c12a3984bf484f87c3640b18e77c7c684098c337e816",
       "bytes": 13492
@@ -178,6 +168,16 @@
       "url": "apps/gray-whale-skeleton-exhibit/manifest.json",
       "sha256": "dfb0b5161e25141c9c14e928707b3effed59a13ddb18364776f83aeea4c3a1b4",
       "bytes": 9611
+    },
+    {
+      "url": "apps/gray-whale/index.html",
+      "sha256": "e5f4a5abf97ec94682c9d66aa6c3718fb91b18be5ca5dcf483c68ff77c10da46",
+      "bytes": 31072
+    },
+    {
+      "url": "apps/gray-whale/manifest.json",
+      "sha256": "b0165901b498019e39c97359b93dfe50f3baadd60f3a4aabc9460084e5e146f5",
+      "bytes": 23421
     },
     {
       "url": "apps/green-falsejingle/index.html",
@@ -611,8 +611,13 @@
     },
     {
       "url": "index.html",
-      "sha256": "371174da230562f8b2c5e28afdd1e05b40ca264bae84a1600a69beaf082ad7cd",
-      "bytes": 1445
+      "sha256": "6e69c4abc3685482ed64868c0f49282b4720ae34ebf03736726e137f091f520f",
+      "bytes": 1452
+    },
+    {
+      "url": "install.html",
+      "sha256": "b34e5b378437778ece63aea80d4f5b4edcb721ecb5889731a278d6482afa9bd3",
+      "bytes": 6595
     },
     {
       "url": "manifest.webmanifest",
@@ -645,14 +650,14 @@
       "bytes": 299
     },
     {
-      "url": "shared/knowledge/evo-interface.js",
-      "sha256": "d746ecaae45ad9379d6c5e472fd7adc3a0c20c62313d980a0051af10b843362a",
-      "bytes": 28574
-    },
-    {
       "url": "shared/knowledge.json",
       "sha256": "bb40ca6e1962eca12869bc79f3665ddb9b12fdd261ac8d624a857d45b56ed35f",
       "bytes": 29034
+    },
+    {
+      "url": "shared/knowledge/evo-interface.js",
+      "sha256": "d746ecaae45ad9379d6c5e472fd7adc3a0c20c62313d980a0051af10b843362a",
+      "bytes": 28574
     },
     {
       "url": "shared/media/asset-007bf887266bfa71--IMG_3540.jpeg",
