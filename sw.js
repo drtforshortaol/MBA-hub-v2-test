@@ -1,4 +1,4 @@
-const NAMESPACE='mba-v2-tester',RELEASE='1a00e66501b14a2a',ROOT=new URL('./',self.location.href),PREFIX=NAMESPACE+':'+ROOT.pathname+':',CACHE=PREFIX+RELEASE;
+const NAMESPACE='mba-v2-tester',RELEASE='b0b2a512b76abac6',ROOT=new URL('./',self.location.href),PREFIX=NAMESPACE+':'+ROOT.pathname+':',CACHE=PREFIX+RELEASE;
 const absolute=p=>new URL(p,ROOT).href;
 async function digest(response){const bytes=await response.clone().arrayBuffer();return [...new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))].map(x=>x.toString(16).padStart(2,'0')).join('');}
 async function verified(response,item){return response&&response.ok&&(await digest(response))===item.sha256;}
