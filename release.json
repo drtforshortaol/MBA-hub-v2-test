@@ -2,7 +2,7 @@
   "schema_version": 1,
   "version": "2.0.0-alpha.7",
   "environment": "tester",
-  "release": "9680a1c6205f3ea9",
+  "release": "5757a736186b7f8f",
   "resources": [
     {
       "url": "apps/applied-water-science-life-support/app.js",
